@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **tpcreative070/tpcreative070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🚀 It will be a pleasure for me to help you with achieving your goals.
 - 💪 Swift, Objective C, SwiftUI, UIKit, Java, Kotlin, XML Jetpack Compose, GCD, MVC, MVVM, Clean Architecture, AWS, Google Cloud, Firebase, OpenCV, Tensorflow, Pytorch
 - ⚡ Fun fact: ...
--->
+
