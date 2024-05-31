@@ -7,5 +7,5 @@
 - ⚽ In addition, I have a wealth of experience in creating applications on my own or participating in app development teams consisting of twenty engineers.
 - 🚀 It will be a pleasure for me to help you with achieving your goals.
 - 💪 Swift, Objective C, SwiftUI, UIKit, Java, Kotlin, XML Jetpack Compose, GCD, MVC, MVVM, Clean Architecture, AWS, Google Cloud, Firebase, OpenCV, Tensorflow, Pytorch
-- ⚡ Fun fact: ...
+- 🥳 It's fun to write code.
 
