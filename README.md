@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🙋🏻‍♂️
  My name is Phong
 
 - 🧑‍💻 I have been working as a native mobile app developer for Android and iOS for 10 years.
