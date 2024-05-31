@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I have been working as a native mobile app developer for Android and iOS for 10 years.
+- 🧑‍💻 I have been working as a native mobile app developer for Android and iOS for 10 years.
 - 🌱 With a decade of full-time software development experience, I am well-equipped to help you fix any issues with your existing application, add new features, or create a brand-new application from scratch.
 - 💻 I have worked with various technologies, including full-stack development, hybrid mobile applications, and native iOS and Android applications.
 - 🔥 My passion lies in crafting top-notch applications that are meticulously optimized and paying close attention to detail.
