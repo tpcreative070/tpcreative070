@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**tpcreative070/tpcreative070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I have been working as a native mobile app developer for Android and iOS for 10 years.
 - 🌱 With a decade of full-time software development experience, I am well-equipped to help you fix any issues with your existing application, add new features, or create a brand-new application from scratch.
 - 💻 I have worked with various technologies, including full-stack development, hybrid mobile applications, and native iOS and Android applications.
