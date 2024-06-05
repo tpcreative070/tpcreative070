@@ -7,6 +7,6 @@
 - 🔥 My passion lies in crafting top-notch applications that are meticulously optimized and paying close attention to detail.
 - ⚽ In addition, I have a wealth of experience in creating applications on my own or participating in app development teams consisting of twenty engineers.
 - 🚀 It will be a pleasure for me to help you with achieving your goals.
-- 💪 Swift, Objective C, SwiftUI, UIKit, Java, Kotlin, RealmDB, RealmDB, CoreData, SwiftData, XML Jetpack Compose, GCD, MVC, MVVM, Clean Architecture, AWS, Google Cloud, Firebase, MapBox, OpenCV, Tensorflow, Pytorch, Encrypt, Decrypt, Image processing, DeepFace.
+- 💪 Swift, Objective C, SwiftUI, UIKit, Java, Kotlin, XML Jetpack Compose, GCD, MVC, MVVM, Clean Architecture, AWS, Google Cloud, Firebase, MapBox, Google Map, Google Drive, Cloudinary, Firestore,  OpenCV, Tensorflow, Pytorch, RoomDB, RealmDB, CoreData, SwiftData, Encrypt, Decrypt, Image processing, DeepFace, Video stream, Video call.
 - 🥳 It's fun to write code.
 
