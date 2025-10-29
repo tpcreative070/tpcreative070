@@ -1,7 +1,7 @@
 ## Hi there 🙋🏻‍♂️.
  My name is Phong.
 
-- 🧑‍💻 I have been working as a native mobile app developer for Android and iOS for 10 years.
+- 🧑‍💻 I have 10 years of experience working as a native mobile app developer for both Android and iOS platforms. I also have experience with computer vision and deep learning using C++. It’s a great programming language for real-time detection.
 - 🌱 With a decade of full-time software development experience, I am well-equipped to help you fix any issues with your existing application, add new features, or create a brand-new application from scratch.
 - 💻 I have worked with various technologies, including full-stack development, native iOS and Android applications.
 - 🔥 My passion lies in crafting top-notch applications that are meticulously optimized and paying close attention to detail.
