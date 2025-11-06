@@ -1,6 +1,6 @@
 ## Hi there 🙋🏻‍♂️.
  My name is Phong.
- I am a native mobile application development(Swift, Kotlin, Java, C, C++, Compose Multiplatform)
+
 - 🧑‍💻 I have over 10 years of experience working as a native mobile app developer for both Android and iOS platforms. I also have experience in computer vision and deep learning using C and C++. They are great programming languages for real-time detection tasks.
 - 🌱 With a decade of full-time software development experience, I am well-equipped to help you fix any issues with your existing application, add new features, or create a brand-new application from scratch.
 - 💻 I have worked with various technologies, including full-stack development, native iOS and Android applications.
